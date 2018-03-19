@@ -6,4 +6,6 @@ Set up to accept local upload of three csv files. Outputs html with individual c
 
 The html produced can be dropped right into a web page in a wcms. The css and js is completely self-contained as internal.
 
+Designed to be quick and easy; something that could be emailed to another staff member to allow them to make changes to a page in someone else's wcms without their needing to know anything about how the webcode works. Works out of a web browser, so they don't need access to any additional software or even the shell anywhere.
+
 Licensed under Creative Commons non-commercial share alike open source license
