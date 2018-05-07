@@ -8,4 +8,17 @@ The html produced can be dropped right into a web page in a wcms. The css and js
 
 Designed to be quick and easy; something that could be emailed to another staff member to allow them to make changes to a page in someone else's wcms without their needing to know anything about how the webcode works. Works out of a web browser, so they don't need access to any additional software or even the shell anywhere.
 
-Licensed under Creative Commons non-commercial share alike open source license
+Copyright 2018, Kansas State University Libraries
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
